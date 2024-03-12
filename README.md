@@ -4,11 +4,11 @@
    
 ![1abrindo_gitbash](https://github.com/HenryHiramatsu/PAM2024/assets/149203326/ff6be528-461c-4aba-88ae-267c6e3c8e81)
 
-3. Como o GitBash já aberto, basta utilizar o comando "git init" para inicializar as configurações do GitBash.
+3. Com o GitBash já aberto, basta utilizar o comando "git init" para inicializar as configurações do GitBash.
 
 ![2inicializando_gitbash](https://github.com/HenryHiramatsu/PAM2024/assets/149203326/b913457a-610a-4a6a-8502-17199833f955)
 
-5. Com o GitBash já inicializado, é hora de cadastrar seu usuário com nome e email (email do qual possui conta no GitHub)
+5. Com o GitBash inicializado, é hora de cadastrar seu usuário com nome e email (email do qual possui conta no GitHub)
    
 ![3Cadastrando_gitbash](https://github.com/HenryHiramatsu/PAM2024/assets/149203326/ace15d4b-782b-4ba8-be26-0a41e04e6db3)
 
