@@ -1,6 +1,6 @@
 <h1>Passo a passo dos comandos mais importantes do GitBash/GitHub</h1>
 
-1. Abrir o GitBash na pasta que desejar transformar em repositório, para isso aperta com o botão direito na pasta, vá na opção "Mostrar mais opções" e por fim selecione o GitBash.
+1. Abrir o GitBash na pasta que desejar transformar em repositório, para isso aperte com o botão direito na pasta, vá na opção "Mostrar mais opções" e por fim selecione o GitBash.
    
 ![1abrindo_gitbash](https://github.com/HenryHiramatsu/PAM2024/assets/149203326/ff6be528-461c-4aba-88ae-267c6e3c8e81)
 
@@ -12,7 +12,7 @@
    
 ![3Cadastrando_gitbash](https://github.com/HenryHiramatsu/PAM2024/assets/149203326/ace15d4b-782b-4ba8-be26-0a41e04e6db3)
 
-7. Caso sua pasta já tenha arquivos, você pode ver tudo o que contém nela pelo GitBash, usando o comando "git status".
+7. Caso sua pasta já tenha arquivos, você pode ver tudo o que há nela pelo GitBash, usando o comando "git status".
    
 ![4status_gitbash](https://github.com/HenryHiramatsu/PAM2024/assets/149203326/53147df9-3569-4d16-ab46-bf3807404540)
 
@@ -24,11 +24,12 @@
     
 ![6commit_log_gitbash](https://github.com/HenryHiramatsu/PAM2024/assets/149203326/892c903f-3a36-4470-a2c2-82b5cd40d3cb)
 
-13. Acesse o GitHub e vá na opção "your repositores", depois vá no botão de "new repositore" e aparecerá está tela:
+<h2>Linkando o repositório</h2>
+1. Acesse o GitHub e vá na opção "your repositores", depois vá no botão de "new repositore" e aparecerá está tela:
     
 ![7_criando_repos](https://github.com/HenryHiramatsu/PAM2024/assets/149203326/b302c4d9-daad-415b-8cbf-b19de26b62d5)
 
-15. Após dar um nome para seu repositório e habilitar ou desabilitar o acesso publico do mesmo, aparecerá uma lista de comandos.
+2. Após dar um nome para seu repositório e habilitar ou desabilitar o acesso publico do mesmo, aparecerá uma lista de comandos.
     
 ![8_comando_linkar](https://github.com/HenryHiramatsu/PAM2024/assets/149203326/f61820a6-bd63-4660-88cf-01703cc1b001)
 
