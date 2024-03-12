@@ -1,4 +1,4 @@
-Passo a passo dos comandos mais importantes do GitBash/GitHub
+<h1>Passo a passo dos comandos mais importantes do GitBash/GitHub</h1>
 
 1. Abrir o GitBash na pasta que desejar trasnformar em repositório, para isso aperta com o botão direito na pasta, vá na opção "Mostrar mais opções" e por fim selecione o GitBash.
    
