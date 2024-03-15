@@ -37,6 +37,7 @@ O comando grifado é o mais importante, executando este comando no seu gitbash i
 
 ![9_linkando_github](https://github.com/HenryHiramatsu/PAM2024/assets/149203326/ab6fc1af-4000-4da5-88da-cf0964b9d200)
 
+git push -u origin main está atualizando o repositório online.
 
 
 
