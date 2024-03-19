@@ -1,3 +1,5 @@
+<h1>COMPONENTES: ARTHUR DOS SANTOS E HENRY HIRAMATSU</h1>
+
 <h1>Passo a passo dos comandos mais importantes do GitBash/GitHub</h1>
 
 1. Abra o GitBash na pasta que desejar transformar em repositório, para isso aperte com o botão direito na pasta, vá na opção "Mostrar mais opções" e por fim selecione o GitBash.
