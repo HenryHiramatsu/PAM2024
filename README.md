@@ -39,6 +39,15 @@ O comando grifado é o mais importante, executando este comando no seu gitbash i
 
 git push -u origin main está atualizando o repositório online.
 
+Agora vem o ultimo passo. Caso você deseje modficar o seu repositório em outra máquina, será necessário que você "puxe" todas as informações do repositório. Para isso, use o comando git pull origin main
+![10gitpull_1](https://github.com/HenryHiramatsu/PAM2024/assets/149203326/93d428b8-a895-4ee8-98c4-039c3faa3c5e)
+Depois de executá-lo, será necessário confirmar a ação, então escreva ":wq"
+![10gitpull_2](https://github.com/HenryHiramatsu/PAM2024/assets/149203326/32588330-b63a-4445-b0fd-232b7294dd44)
+Assim, você terá tudo certo para suas alterações remotas.
+![10gitpull_3](https://github.com/HenryHiramatsu/PAM2024/assets/149203326/c2f6d654-4c1e-46e5-bc1e-0429bd016598)
+
+
+
 
 
 
