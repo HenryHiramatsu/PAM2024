@@ -53,8 +53,16 @@ Assim, você terá tudo certo para suas alterações remotas.
 
 ![10gitpull_3](https://github.com/HenryHiramatsu/PAM2024/assets/149203326/c2f6d654-4c1e-46e5-bc1e-0429bd016598)
 
+<h2>Adicionando colaboradores ao repositório</h2>
 
+1. Vá até o ícone das configurações do repositório
 
+![https://raw.githubusercontent.com/HenryHiramatsu/PAM2024/main/11_Adicionando_dupla(colaborador).PNG](https://github.com/HenryHiramatsu/PAM2024/blob/main/11_Adicionando_dupla(colaborador).PNG?raw=true)
+2. Clique na opção "Colaboradores"
+
+3. Adicione o colaborador com base no seu nome de usuário, onde será feita uma busca e em seguida selecione o usuário que deseja adicionar para o repositório.
+
+![image](https://github.com/HenryHiramatsu/PAM2024/assets/149438158/85c4e220-9f10-4ede-935b-6a21329a8c4b)
 
 
 
